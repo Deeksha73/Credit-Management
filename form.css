@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font-family: 'Quicksand', sans-serif;
+     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),url(resources/css/bgg2.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.form{
+    padding: 50px;
+    background-color: rgba(255, 165, 0, 0.6);
+    position: absolute;
+    text-align: center;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}  
+form input{
+    margin-left: 10px;
+    float: right;
+    border: 0;
+    height: 20px;
+}
+h1{
+    font-weight: 100;
+    padding: 10px;
+    text-decoration: underline;
+}
+.btn{
+    cursor: pointer;
+    padding: 5px;
+    width:80px;
+    border-radius: 30px;
+    background-color: black;
+    color: white;
+    border: 0;
+}
