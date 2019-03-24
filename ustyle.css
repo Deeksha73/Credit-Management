@@ -22,7 +22,6 @@ h3{
     font-weight: 100;
     color: #575252;
     text-decoration: underline;
-    margin-bottom: 40px;
 }
 .position{
     text-align: center;
@@ -37,3 +36,15 @@ h3{
 .btn-warning:hover{
    background:linear-gradient(to left, #ff9900 31%, #ffcc00 102%);
 }
+.back{
+    width:100px;
+    padding: 5px;
+    background-color: white;
+    border: 0;
+    border-radius: 10px;
+    font-size: 25px;
+}
+.back:hover{
+    background-color: #f4821e;
+}
+

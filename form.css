@@ -38,3 +38,16 @@ h1{
     color: white;
     border: 0;
 }
+.home{
+    float: right;
+}
+.home,.back{
+    cursor: pointer;
+    margin: 30px;
+    width: 80px;
+    padding: 10px;
+    border: 0;
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: rgba(255, 165, 0, 0.74);
+}
