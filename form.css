@@ -43,7 +43,7 @@ h1{
 }
 .home,.back{
     cursor: pointer;
-    margin: 30px;
+    margin: 10px;
     width: 80px;
     padding: 10px;
     border: 0;
