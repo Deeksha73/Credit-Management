@@ -32,6 +32,7 @@ h1{
 }
 .btn{
     cursor: pointer;
+    margin-top: 5px;
     padding: 5px;
     width:80px;
     border-radius: 30px;
