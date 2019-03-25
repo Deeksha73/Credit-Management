@@ -70,9 +70,10 @@ h1{
 }
 
 @media only screen and (max-width: 590px){
-    .form{
-        padding: 10px;
+    ..form{
+        padding: 5px;
     }
     .form p{
-        width: 180px;
+        width: 320px;
     }
+}
