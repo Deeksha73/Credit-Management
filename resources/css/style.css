@@ -21,6 +21,9 @@ header{
     padding: 1%;
 }
 /* ---------------------------------------------------------------REUSABLE CONTENT----------------------------------------------------*/
+.about{
+    text-decoration: none;
+}
 .row{
     max-width:1140px;
     margin: 0 auto;
