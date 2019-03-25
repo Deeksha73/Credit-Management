@@ -66,14 +66,7 @@ h1{
         padding: 5px;
     }
     .form p{
-        width: 320px;
-    }
-}
-@media only screen and (max-width: 480px){
-    .form{
-        padding: 5px;
-    }
-    .form p{
         width: 180px;
     }
 }
+
